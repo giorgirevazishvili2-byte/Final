@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Classic",
+    "price": 250,
+    "image": "images/bag3.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Modern",
+    "price": 300,
+    "image": "images/bag1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Elegant",
+    "price": 400,
+    "image": "images/bag4.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Vintege",
+    "price": 550,
+    "image": "images/bag2.jpg"
+  }
+]
